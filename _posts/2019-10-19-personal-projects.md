@@ -2,7 +2,7 @@
 title: Personal Projects
 layout: post
 ---
-I've worked on many personal projects, I use them as learning experiences for the languages and frameworks I'm trying to learn. In this post I'll detail a bit about some of those projects.
+In this post I'll detail a bit about some of my personal projects. I use them as learning experiences for the languages and frameworks I'm trying to learn.
 
 [**Gossiper**](https://gossiper-frontend.herokuapp.com/#/) is one of my latest projects, in which I learned to use NodeJS for the [**backend**](https://github.com/fabriond/Gossiper-Server) and basic VueJS for the [**frontend**](https://github.com/fabriond/Gossiper). In it, people can check for info and comment on Brazilian public expenses accessible via the [**Portal da Transparência (Transparency Portal)**](http://www.transparencia.gov.br/swagger-ui.html) public API.
 
