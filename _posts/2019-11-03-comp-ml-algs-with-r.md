@@ -1,5 +1,5 @@
 ---
-title: How to Compare Machine Learning Algorithms with R
+title: Compare Machine Learning Algorithms with R
 layout: post
 ---
 
